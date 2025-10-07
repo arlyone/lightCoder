@@ -1,15 +1,17 @@
-# lightcoder
+# LightCoder
 
-*Automating the pentest. 
+> **Automating the Pentest.**  
+> Bug-bounty-ready Kali tools with a one-click setup script.
 
-```
-git clone https://github.com/LightC0der/LightCoder/
+LightCoder is designed to simplify and speed up penetration testing and bug bounty workflows.  
+With just a few commands, you’ll have your environment up and running — no manual setup required.
+
+---
+
+## 🚀 Quick Start
+
+```bash
+git clone https://github.com/LightC0der/LightCoder.git
 cd LightCoder
 ./install.sh
 ./lightcoder.sh domain.com
-```
-- Feel free to contribute. <3
-
-
-</br>
-<a href="https://www.buymeacoffee.com/Lightcoder" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 50 !important;width: 20 !important;" ></a>
